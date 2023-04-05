@@ -1,3 +1,4 @@
+#code incomplete
 N = int(input())
 friends = []
 max = 0
