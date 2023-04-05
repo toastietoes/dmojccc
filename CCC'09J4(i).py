@@ -1,3 +1,4 @@
+#this code does not work
 from collections import deque
 
 w = int(input())
